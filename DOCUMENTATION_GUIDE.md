@@ -418,6 +418,6 @@ All diagrams are embedded in the documentation files and available as PNG images
 
 ---
 
-**Happy Reading! 📚**
+**Happy Reading! 📚*
 
 For questions or updates, please contact the KiroTax Development Team.
